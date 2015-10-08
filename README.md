@@ -1,6 +1,6 @@
 # ajaxMailChimp
 
-AjaxMailChimp is a jQuery plugin that lets you ajaxify your mailchimp form with multiple input fields.
+AjaxMailChimp is a jQuery plugin that lets you ajaxify your mailchimp form with multiple input fields. This plugin is based on [scdoshi's](https://github.com/scdoshi/jquery-ajaxchimp) Mailchimp plugin.
 
 Use this if you hate the jarring transition to the mailchimp website upon submitting an email address to mailchimp.
 
